@@ -4,12 +4,23 @@ from langchain_community.vectorstores import FAISS
 from langchain.chains import retrieval_qa
 from langchain.schema import Document
 from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.document_loaders import TextLoader
+
+def PyPDFLoader(filepath):
+    raise NotImplementedError
 
 
- 
+#Load Documents 
+#Load a pdf file
+pdf_loader = PyPDFLoader("sample.pdf")
+pdf_docs = pdf_loader.load()
 
-#Create Sample documents
-docs = [
+#Load a txt file
+txt_loader = TextLoader("/knowledge_base/notes.txt")
+txt_docs = txt_loader.load()
+
+#Combine pdf txt
+docs = pdf_loader + txt_loader + [
     Document(page_content="LangChain is a framework for building LLM-powered applications."),
     Document(page_content="RAG stands for Retrieval-Augmented Generation."),
     Document(page_content="FAISS is a vector database for efficient similarity search."),
