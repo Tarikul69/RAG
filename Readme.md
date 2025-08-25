@@ -4,7 +4,7 @@
 <img align="center" src="image.gif" alt="Image" width="900"/>
 
 
-# Important Keywords & Meaning
+### Important Keywords & Meaning
 1. Document - Stores a piece of text you want the AI to learn from.
 2. Embeddings - Converts text into numbers (vectors) so the computer can compare meaning. Embeddings are the translator between text and math.
 3. FAISS(Facebook AI Similarity Search) - A fast database for storing and searching embeddings.
