@@ -17,3 +17,5 @@ embeddings3 = embeddings[2]
 print("Embeddings for text1:", embeddings1)
 print("Embeddings for text2:", embeddings2) 
 print("Embeddings for text3:", embeddings3)
+print(f"Length of Embeddings for text1:{len(embeddings)}")
+print(f"Dimension of embedding:{len(embeddings[0])}")
