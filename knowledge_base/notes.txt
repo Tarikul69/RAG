@@ -1,0 +1,46 @@
+Welcome to Gourmet Bistro, a family-friendly restaurant located in the heart of the city.  
+
+Opening Hours:  
+- Monday to Friday: 11:00 AM – 10:00 PM  
+- Saturday and Sunday: 9:00 AM – 11:00 PM  
+
+Contact Information:  
+Phone: +1-555-234-5678  
+Email: info@gourmetbistro.com  
+Address: 123 Main Street, Downtown  
+
+Menu Categories:  
+1. Starters  
+2. Main Course  
+3. Desserts  
+4. Beverages  
+
+Starters:  
+- Garlic Bread – $4.99  
+- Caesar Salad – $6.50  
+- Tomato Soup – $5.00  
+
+Main Course:  
+- Margherita Pizza – $10.99  
+- Pepperoni Pizza – $12.99  
+- Grilled Chicken with Vegetables – $15.50  
+- Spaghetti Carbonara – $13.75  
+- Veggie Burger – $9.99  
+
+Desserts:  
+- Chocolate Lava Cake – $6.99  
+- Cheesecake – $5.99  
+- Ice Cream Sundae – $4.50  
+
+Beverages:  
+- Fresh Orange Juice – $3.50  
+- Coffee – $2.99  
+- Iced Tea – $2.50  
+- Soft Drinks – $2.00  
+
+Special Offers:  
+- Lunch Combo (Pizza + Drink) – $12.00 (Available weekdays 12:00 PM – 3:00 PM)  
+- Happy Hour: Buy 1 Get 1 Free on all Beverages (4:00 PM – 6:00 PM daily)  
+
+Reservation Policy:  
+We accept table reservations for groups of 4 or more. Private dining and catering services are available upon request.  
