@@ -13,6 +13,16 @@
  - Delivers higher precision & contextual relevance
 
 3. **Modular RAG**
+ - Blends sparse + dense retrieval with API/tool integration
+ - Flexible, composable, scalable across applications
+
+4. **Graph RAG**
+ - Uses graph structures for relational reasoning
+ - Excellent for structured data & reducing hallucinations
+
+5. **Agentic RAG**
+ - The next leap: autonomous agents dynamically retrieving, refining, optimizing
+ - Adaptable, scalable, accurate across domains
 
 ### Important Keywords & Meaning
 1. **Document** - Stores a piece of text you want the AI to learn from.
