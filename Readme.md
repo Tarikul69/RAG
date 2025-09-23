@@ -3,6 +3,10 @@
 <h3>RAG Architecture</h3>
 <img align="center" src="image.gif" alt="Image" width="900"/>
 
+#### Types of RAG
+1. Naive RAG
+ - Keyword-based retrieval (TF-IDF, BM25)
+ - Simple, effective for fact-based queries
 
 ### Important Keywords & Meaning
 1. **Document** - Stores a piece of text you want the AI to learn from.
